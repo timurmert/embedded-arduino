@@ -52,7 +52,7 @@ Welcome to the **Arduino Radar Project** repository! This project demonstrates t
 
 ## Author
 
-- **[Timur Mert USTA]** - Computer Engineering student with a passion for embedded systems and robotics.
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/timur-mert-usta)
+- **Timur Mert USTA** - Computer Engineering student with a passion for embedded systems and robotics.
+- [LinkedIn](https://www.linkedin.com/in/timur-mert-usta)
 
 ---
